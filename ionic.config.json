@@ -1,0 +1,8 @@
+{
+  "name": "haonature.com",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8c4b4bdd"
+}
